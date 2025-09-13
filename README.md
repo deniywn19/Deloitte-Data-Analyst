@@ -9,7 +9,6 @@ A portfolio of the deliverables and analytical work produced during the Deloitte
 
 ## 🎯 Simulation Objectives
 The Deloitte Data Analytics simulation aimed to:
-* Provide practical experience with data cleaning and preparation
 * Develop skills in data visualization and dashboard creation
 * Enhance analytical thinking for business problem-solving
 * Understand how to communicate insights effectively to stakeholders
@@ -17,3 +16,11 @@ The Deloitte Data Analytics simulation aimed to:
 ## 🛠️  Assigned Tasks
 * Task 1. Process and analyze one month of high-frequency machine telemetry data (from 36 machines across 4 factories) to pinpoint the plant with the most frequent breakdowns and the specific machines causing the most downtime.
 * Task 2.  Build upon the Forensic Tech team's foundation to complete an algorithm that measures pay equity, enabling us to identify and address disparities across all roles and global locations.
+
+## 🛠️ Tools used
+* Excel - For Modeling lounge eligibility
+* Tableau – For Data Visualization
+
+## Task 1. Analyze one month of high-frequency machine telemetry data
+
+## Task 2. Identify and address disparities across all roles and global locations
