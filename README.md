@@ -36,5 +36,18 @@ The Deloitte Data Analytics simulation aimed to:
     * Highly Discriminative (<-20 AND >20)
   
 ## 💡 Key Learnings
+Through this simulation, I gained valuable experience in:
+1. Tools commonly used in professional analytics (Excel, Tableau, etc.)
+2. How to tailor analysis for different stakeholders
+3. Effective visualization techniques
 
+## 📧 Contact
+For questions or feedback about this project, please reach out:
 
+Email: deniyuniawan.workspace@gmail.com
+LinkedIn: [Deni Yuniawan]([http://yourlink.com](https://www.linkedin.com/in/deni-yuniawan/))
+
+## 📄 License 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Thank you for reviewing my Deloitte Data Analytics Simulation work!
