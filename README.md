@@ -44,7 +44,7 @@ Through this simulation, I gained valuable experience in:
 ## 📧 Contact
 For questions or feedback about this project, please reach out:
 * Email: deniyuniawan.workspace@gmail.com
-* LinkedIn: [Deni Yuniawan]([http://yourlink.com](https://www.linkedin.com/in/deni-yuniawan/))
+* LinkedIn: [Deni Yuniawan](https://www.linkedin.com/in/deni-yuniawan/)
 
 ## 📄 License 
 This project is licensed under the MIT License - see the LICENSE file for details.
